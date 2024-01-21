@@ -11,11 +11,10 @@ Explore the code to understand the clustering process and its applications.
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: 
+git clone https://github.com/amithvikram10/K-means-Algorithm.git cd k-means-algorithm
 
-2. Install dependencies:   
-
-3. Run the k-means algorithm:
+2. Run the k-means algorithm: python demo.py
   
 ## Contributing
 Feel free to contribute by opening issues or pull requests. Your input is highly appreciated!
