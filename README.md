@@ -12,7 +12,8 @@ Explore the code to understand the clustering process and its applications.
 ### Installation
 
 1. Clone the repository: 
-git clone https://github.com/amithvikram10/K-means-Algorithm.git cd k-means-algorithm
+git clone https://github.com/amithvikram10/K-means-Algorithm.git
+cd k-means-algorithm
 
 2. Install dependencies
 
