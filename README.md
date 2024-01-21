@@ -23,4 +23,4 @@ cd k-means-algorithm
 Feel free to contribute by opening issues or pull requests. Your input is highly appreciated!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
